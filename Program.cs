@@ -1,4 +1,6 @@
-﻿namespace studioProject
+﻿using System;
+
+namespace studioProject
 {
     internal class Program
     {
@@ -7,8 +9,10 @@
             // sam writes here
 
             // ari writes here
-
+            Console.Writeline("Hello, it's Ari!");
             // nishtha writes here
+
+            Console.ReadLine();
         }
     }
 }
