@@ -49,10 +49,12 @@ namespace studioProject
             Console.WriteLine($"6's rolled: {count6}");
 
             // ari writes here
-            Console.Writeline("Hello, it's Ari!");
+            Console.WriteLine("Hello, it's Ari!");
             // nishtha writes here
 
+            Console.WriteLine("hello, it's me");
             Console.ReadLine();
+
         }
     }
 }
