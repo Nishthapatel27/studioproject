@@ -9,7 +9,7 @@ namespace studioProject
             // sam writes here
             Console.WriteLine("Hello, my name is Sam");
             // ari writes here
-            Console.Writeline("Hello, it's Ari!");
+            Console.WriteLine("Hello, it's Ari!");
             // nishtha writes here
 
             Console.ReadLine();
